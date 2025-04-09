@@ -1,8 +1,8 @@
 ---
-title: "<strong>A unified normalization method for homography estimation using combined point and line correspondences</strong>"
+title: "<strong>A Unified Normalization Method for Homography Estimation Using Combined Point and Line Correspondences</strong>"
 authors: "<strong>Linjun Lu</strong>, Fei Dai"
 collection: publications
-category: manuscripts
+category: selected_manuscripts
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
 volume: 38
 issue: 8
