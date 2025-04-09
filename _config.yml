@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Linjun Lu"
+  name             : "Linjun Lu, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Marie Sklodowska-Curie Future Roads Fellow"
+  location         : # "Earth"
   employer         : "University of Cambridge"
   uri              : # URL
   email            : "ll718@cam.ac.uk" 
