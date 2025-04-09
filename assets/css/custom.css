@@ -1,0 +1,46 @@
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
+
+.pub-image {
+  flex: 0 0 160px;
+  margin-right: 15px;
+}
+
+.pub-image img {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.pub-content {
+  flex: 1;
+}
+
+.pub-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 4px;
+}
+
+.pub-authors {
+  margin-bottom: 2px;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 6px;
+}
+
+.pub-links a {
+  color: #0033cc;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
