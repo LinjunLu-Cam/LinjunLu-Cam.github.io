@@ -5,17 +5,17 @@
 
 <div class="pub-entry" style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   {% if post.header.teaser %}
-    <div class="pub-image" style="flex: 0 0 110px; margin-right: 15px;">
-      <img src="{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}" alt="teaser" style="width: 110px; height: auto; object-fit: cover; border: 1px solid #ccc; border-radius: 4px;" />
+    <div class="pub-image" style="flex: 0 0 130px; margin-right: 15px;">
+      <img src="{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}" alt="teaser" style="width: 130px; height: auto; object-fit: cover; border: 1px solid #ccc; border-radius: 4px;" />
     </div>
   {% endif %}
 
   <div class="pub-content" style="flex: 1;">
     <div class="pub-title" style="font-weight: bold; font-size: 1.05em; margin-bottom: 5px;">{{ title }}</div>
     <div class="pub-authors" style="margin-bottom: 2px;">{{ post.authors }}</div>
-    <div class="pub-venue" style="font-style: italic; color: #666; margin-bottom: 6px;">{{ post.venue }} {{ pub_year }}</div>
-    <div class="pub-links" style="margin-top: 4px;">
-      {% if post.paperurl %}<a href="{{ post.paperurl }}" style="color: #1f8dd6;">[Paper]</a>{% endif %}
+    <div class="pub-venue" style="margin-bottom: 6px;">
+      <em>{{ post.venue }}</em> {{ pub_year }}
+      {% if post.paperurl %} <a href="{{ post.paperurl }}" style="color: #1f8dd6;">[Paper]</a>{% endif %}
       {% if post.codeurl %} <a href="{{ post.codeurl }}" style="color: #1f8dd6;">[Code]</a>{% endif %}
       {% if post.projecturl %} <a href="{{ post.projecturl }}" style="color: #1f8dd6;">[Project Page]</a>{% endif %}
     </div>
