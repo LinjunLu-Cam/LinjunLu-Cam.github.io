@@ -1,8 +1,8 @@
 ---
-title: "<strong>Mitigating thermal‐induced image drift for videogrammetric technique in support of structural monitoring applications</strong>"
+title: "<strong>Mitigating Thermal‐induced Image Drift for Videogrammetric Technique in Support of Structural Monitoring Applications</strong>"
 authors: "Hua‐Fei Zhou, Zhao‐Yi Li, <strong>Lin‐Jun Lu</strong>, Yi‐Qing Ni"
 collection: publications
-category: manuscripts
+category: other_manuscripts
 venue: 'Structural Control and Health Monitoring'
 volume: 29
 issue: 2
