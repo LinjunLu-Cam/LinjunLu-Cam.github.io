@@ -1,0 +1,14 @@
+---
+title: "<strong>Leveraging Traffic Scenes to Estimate Three Mutually Orthogonal Vanishing Points in Support of Automated Vision-based Traffic Data Collection</strong>"
+authors: "<strong>Linjun Lu</strong>, Sourav Dutta, Zhenhua Zhu, Fei Dai"
+collection: publications
+category: manuscripts
+venue: 'KSCE Journal of Civil Engineering'
+volume: 29
+issue: 4
+page: 100111
+date: 2024-11-06
+header:
+  teaser: test.png
+paperurl: https://www.sciencedirect.com/science/article/pii/S1226798824052589
+---
