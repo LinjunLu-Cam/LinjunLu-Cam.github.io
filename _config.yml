@@ -79,9 +79,9 @@ author:
 publication_category:
   patents:
     title: 'Patents'
-  selected manuscripts:
+  selected_manuscripts:
     title: 'Selected Journal Articles'    
-  other manuscripts:
+  other_manuscripts:
     title: 'Other Journal Articles'  
   conferences:
     title: 'Conference Papers'
