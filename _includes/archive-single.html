@@ -13,28 +13,23 @@
       "{{ title }}."
       <em>{{ post.venue }}</em>
       {% if post.volume %}, {{ post.volume }}{% endif %}
-      {% if post.issue %}({{ post.issue }}){% endif %}.
+      {% if post.issue %}({{ post.issue }}){% endif %}
+      {% if post.page %}({{ post.page }}){% endif %}.
+      
+      {% assign link_parts = "" %}
+      {% if post.paperurl %}
+        {% assign link_parts = link_parts | append: '<a href="' | append: post.paperurl | append: '">Download Paper</a>' %}
+      {% endif %}
+      {% if post.slidesurl %}
+        {% if link_parts != "" %}{% assign link_parts = link_parts | append: ' | ' %}{% endif %}
+        {% assign link_parts = link_parts | append: '<a href="' | append: post.slidesurl | append: '">Download Slides</a>' %}
+      {% endif %}
+      {% if post.bibtexurl %}
+        {% if link_parts != "" %}{% assign link_parts = link_parts | append: ' | ' %}{% endif %}
+        {% assign link_parts = link_parts | append: '<a href="' | append: post.bibtexurl | append: '">Download BibTeX</a>' %}
+      {% endif %}
+      {% if link_parts != "" %} {{ link_parts | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}
     </p>
-
-    {% if post.citation %}
-      <p><strong>Recommended citation:</strong> {{ post.citation }}</p>
-    {% endif %}
-
-    {% assign download_links = "" %}
-    {% if post.paperurl %}
-      {% assign download_links = download_links | append: '<a href="' | append: post.paperurl | append: '">Download Paper</a>' %}
-    {% endif %}
-    {% if post.slidesurl %}
-      {% if download_links != "" %}{% assign download_links = download_links | append: ' | ' %}{% endif %}
-      {% assign download_links = download_links | append: '<a href="' | append: post.slidesurl | append: '">Download Slides</a>' %}
-    {% endif %}
-    {% if post.bibtexurl %}
-      {% if download_links != "" %}{% assign download_links = download_links | append: ' | ' %}{% endif %}
-      {% assign download_links = download_links | append: '<a href="' | append: post.bibtexurl | append: '">Download BibTeX</a>' %}
-    {% endif %}
-    {% if download_links != "" %}
-      <p>{{ download_links | markdownify | remove: "<p>" | remove: "</p>" }}</p>
-    {% endif %}
 
   </article>
 </div>
