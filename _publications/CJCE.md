@@ -1,0 +1,13 @@
+---
+title: "<strong>Uniformity inspection of tack coats through measurement conducted on drone-collected images</strong>"
+authors: "ida da Silva, <strong>Linjun Lu</strong>, Zhenhua Zhu, Linbing Wang, Fei Dai"
+collection: publications
+category: manuscripts
+venue: 'Canadian Journal of Civil Engineering'
+volume: 5
+page: 369-378
+date: 2023-07-11
+header:
+  teaser: test.png
+paperurl: https://cdnsciencepub.com/doi/full/10.1139/cjce-2023-0106
+---
