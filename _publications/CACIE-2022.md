@@ -11,5 +11,5 @@ date: 2022-04-12
 header:
   teaser: test.png
 paperurl: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12842
-codeurl: https://www.youtube.com/watch?v=AjhF9DPyjNk
+videourl: https://www.youtube.com/watch?v=AjhF9DPyjNk
 ---
