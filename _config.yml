@@ -22,7 +22,7 @@ repository               : "https://linjunlu-cam.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Linjun_Lu-20250409.jpg"
+  avatar           : "Linjun_Lu-20250409_downsize.jpg"
   name             : "Linjun Lu, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Marie Sklodowska-Curie Future Roads Fellow"
