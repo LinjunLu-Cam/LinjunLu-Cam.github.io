@@ -9,6 +9,6 @@ issue: 8
 page: 010-1026
 date: 2021-11-11
 header:
-  teaser: test.png
+  teaser: CACIE-2021.jpg
 paperurl: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12788
 ---
