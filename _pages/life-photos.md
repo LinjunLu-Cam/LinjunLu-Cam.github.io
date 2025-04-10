@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Life Photos"
+title: "Life Photos"
 permalink: /life-photos/
 author_profile: true
 ---
