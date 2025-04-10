@@ -1,5 +1,5 @@
 ---
-title: "CE593E/CE493E Construction Estimating"
+title: "CE593E/CE493E Construction Estimating, Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TA-WVU-2
