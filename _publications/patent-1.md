@@ -6,6 +6,6 @@ category: patents
 venue: 'US Patent US12140961B2'
 date: 2024-11-12
 header:
-  teaser: test.png
+  teaser: patent-1.jpg
 paperurl: https://patents.google.com/patent/US12140961B2/en
 ---
