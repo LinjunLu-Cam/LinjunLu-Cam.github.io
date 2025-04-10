@@ -1,5 +1,5 @@
 ---
-title: "<strong>Automated Visual Surveying of Cehicle Heights to Help Measure the Risk of Overheight Collisions Using Deep Learning and View Geometry</strong>"
+title: "<strong>Automated Visual Surveying of Vehicle Heights to Help Measure the Risk of Overheight Collisions Using Deep Learning and View Geometry</strong>"
 authors: "<strong>Linjun Lu</strong>, Fei Dai"
 collection: publications
 category: selected_manuscripts
