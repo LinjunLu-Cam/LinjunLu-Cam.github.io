@@ -9,7 +9,7 @@ issue: 2
 page: 105257
 date: 2022-04-12
 header:
-  teaser: test.png
+  teaser: CACIE-2022.jpg
 paperurl: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12842
 videourl: https://www.youtube.com/watch?v=AjhF9DPyjNk
 ---
