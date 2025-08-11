@@ -1,9 +1,9 @@
 ---
-title: "<strong>Automatic Roller Path Tracking and Mapping for Pavement Compaction Using Infrared Thermography</strong>"
+title: "<strong>Vehicle Category Classification from Surveillance Videos</strong>"
 authors: "Fei Dai, <strong>Linjun Lu</strong>"
 collection: publications
 category: patents
-venue: 'US Patent US12140961B2'
+venue: 'US Patent US20250174006A1'
 date: 2025-05-29
 header:
   teaser: patent-2.jpg
