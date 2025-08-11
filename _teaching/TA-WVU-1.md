@@ -8,9 +8,9 @@ date: 2020-08-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. You can use markdown like any other post. 
 
-Heading 1
+Heading 1 Fall 2020 (45 undergraduate students). Duty: Graded assignments, team projects, and addressed students’ questions in Q&A sessions
 ======
 Fall 2020 (45 undergraduate students). Duty: Graded assignments, team projects, and addressed students’ questions in Q&A sessions
 
