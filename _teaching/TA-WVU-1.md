@@ -1,22 +1,22 @@
 ---
+layout: single
 title: "CE593E/CE493E Construction Estimating, Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/TA-WVU-1
+permalink: /teaching/TA-WVU-1/
 venue: "West Virginia University, Civil Engineering Department"
 date: 2020-08-01
 location: "City, Country"
-excerpt: "Fall 2020 (45 students): graded assignments, team projects, and ran Q&A sessions."
+excerpt: "Fall 2020 (45 undergraduate students): graded assignments, team projects, and addressed students’ questions in Q&A sessions."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post. 
+This is a description of a teaching experience. You can use markdown like any other post.  
 
-Heading 1 Fall 2020 (45 undergraduate students). Duty: Graded assignments, team projects, and addressed students’ questions in Q&A sessions
-======
-Fall 2020 (45 undergraduate students). Duty: Graded assignments, team projects, and addressed students’ questions in Q&A sessions
+## Fall 2020 (45 undergraduate students)  
+**Duty:** Graded assignments, team projects, and addressed students’ questions in Q&A sessions.  
 
-Heading 2
-======
+## Heading 2  
+More details about the course, responsibilities, and any special contributions you made.  
 
-Heading 3
-======
+## Heading 3  
+Any additional notes, links to course materials, or related teaching activities.
