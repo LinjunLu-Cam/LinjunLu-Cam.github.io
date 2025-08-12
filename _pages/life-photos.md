@@ -8,7 +8,7 @@ author_profile: true
 Welcome to my life photo gallery!
 
 <!-- You can include images manually like this: -->
-<img src="/_life_photos/IMG_3851.jpeg" alt="Life Photo 1" style="max-width: 500px; margin: 30px;" />
+<img src="/_life_photos/IMG_3851.jpeg" alt="Life Photo 1"/>
 <img src="/_life_photos/IMG_4816.jpeg" alt="Life Photo 2" style="max-width: 500px; margin: 30px;" />
 <img src="/_life_photos/IMG_4856.jpeg" alt="Life Photo 3" style="max-width: 500px; margin: 30px;" />
 <img src="/_life_photos/IMG_5270.jpeg" alt="Life Photo 4" style="max-width: 500px; margin: 30px;" />
