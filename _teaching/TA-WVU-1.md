@@ -4,6 +4,8 @@ title: "CE593E/CE493E Construction Estimating, Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TA-WVU-1/
+entries_layout: list
+show_excerpts: true
 venue: "West Virginia University, Civil Engineering Department"
 date: 2020-08-01
 location: "City, Country"
