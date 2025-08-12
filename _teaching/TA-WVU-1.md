@@ -6,6 +6,7 @@ permalink: /teaching/TA-WVU-1
 venue: "West Virginia University, Civil Engineering Department"
 date: 2020-08-01
 location: "City, Country"
+excerpt: "Fall 2020 (45 students): graded assignments, team projects, and ran Q&A sessions."
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post. 
