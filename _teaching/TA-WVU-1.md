@@ -6,7 +6,7 @@ type: "Undergraduate course"
 permalink: /teaching/TA-WVU-1/
 entries_layout: list
 show_excerpts: true
-venue: "Civil Engineering Department, West Virginia University"
+venue: "West Virginia University, Civil Engineering Department 2020"
 date: 2020-08-01
 location: "City, Country"
 excerpt: "Fall 2020 (45 undergraduate students): graded assignments, team projects, and addressed students’ questions in Q&A sessions."
