@@ -6,6 +6,7 @@ permalink: /teaching/TA-WVU-2
 venue: "West Virginia University, Civil Engineering Department"
 date: 2019-08-01
 location: "City, Country"
+image: "/images/AI-Lecturer.JPEG"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
