@@ -1,21 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me
+# About Me
 ======
 I am currently a Postdoctoral Fellow in the laboratory of Prof. Ioannis Brilakis at the University of Cambridge, where I lead research on large language model (LLM)-based multi-agent systems enhanced with reinforcement learning to facilitate human-AI-DT (digital twin) interaction for highway infrastructure management. My work also involves spatial-temporal modeling of GIS condition data and graph theory-based uncertainty quantification to support trustworthy highway infrastructure condition prediction and preventive maintenance planning. These projects are conducted in collaboration with leading UK government and industry partners, including Amey, Trimble, Costain, National Highways, and the Department for Transport. 
 
 Prior to my postdoctoral position, I completed my Ph.D. at West Virginia University under the supervision of Prof. Fei Dai. My Ph.D. research focused on developing digital twin-based solutions that integrate AI/ML and computer vision to advance the intelligent digitalization of transportation infrastructure. Specifically, I worked on two major fronts: (1) automating quality control during the road construction phase through real-time monitoring and analysis, and (2) enabling intelligent digitalization of traffic data and road infrastructure for intelligent transportation system management during the operation phase. Some of the developed solutions (U.S. patented) have been successfully deployed for quality control during the construction of roads I-79S, I-68E, and US-50W in West Virginia, as well as for automatic vehicle-infrastructure collision warning on road I-68 in Pennsylvania. 
 
-<video width="640" height="360" autoplay loop muted playsinline>
-  <source src="{{ '/images/research_demo.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/06df8d63-28ce-4024-a3eb-bcc04770ef1e
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
