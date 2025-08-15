@@ -22,10 +22,3 @@ Welcome to my life photo gallery!
 <img src="/photos/IMG_6741.JPG" alt="Life Photo 14" style="max-width: 1000px; margin: 30px;" />
 <img src="/photos/IMG_7042.jpeg" alt="Life Photo 11" style="max-width: 1000px; margin: 30px;" />
 <img src="/photos/IMG_7107.jpeg" alt="Life Photo 12" style="max-width: 1000px; margin: 30px;" />
-
-{% comment %}
-If you later add a life collection (_life), this loop will render those posts:
-{% endcomment %}
-{% raw %}{% for post in site.life reversed %}
-  {% include archive-single.html %}
-{% endfor %}{% endraw %}
