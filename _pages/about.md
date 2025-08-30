@@ -22,8 +22,8 @@ Research Framework
 <video width="1000" height="500" autoplay loop muted playsinline controls>
   <source src="{{ '/images/research_demo1.av1.mp4' | relative_url }}" type="video/mp4">
 </video>
-
 <br>
+
 Research Interests
 ======
 <hr/>
