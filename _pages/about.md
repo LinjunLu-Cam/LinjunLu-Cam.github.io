@@ -11,10 +11,9 @@ redirect_from:
 About Me
 ======
 <hr/>
-I am currently a Postdoctoral Fellow in the laboratory of Prof. Ioannis Brilakis at the University of Cambridge, where I lead research on large language model (LLM)-based multi-agent systems enhanced with reinforcement learning to facilitate human-AI-DT (digital twin) interaction for highway infrastructure management. My work also involves spatial-temporal modeling of GIS condition data and graph theory-based uncertainty quantification to support trustworthy highway infrastructure condition prediction and preventive maintenance planning. These projects are conducted in collaboration with leading UK government and industry partners, including Amey, Trimble, Costain, National Highways, and the Department for Transport. 
+I am currently a Postdoctoral Fellow in the laboratory of Prof. Ioannis Brilakis at the University of Cambridge, where I am conducting research on Human-Machine Interaction (HMI) for built infrastructure management through generative AI-driven multi-agent DTs (digital twins) and human-centered reinforcement learning. This work focuses on developing solutions that foster both emotional and physical trust between humans and AI-driven DT systems, enabling more effective infrastructure operation and management. In parallel, my research also focuses on spatial-temporal modelling of GIS data and graph theory-based uncertainty quantification to ensure the trustworthy use of built infrastructure condition data in routine operations through DTs. These projects are carried out in collaboration with leading UK construction and technology companies, including Jacobs, Trimble, and TRL Software, as well as the UK Department for Transport, under the National Digital Twin Programme (NDTP). As the Principal Investigator, my current research is funded by the EU Marie Skłodowska-Curie Actions, with a total funding allocation of $229,067 (grant success rate: 14%).
 
-Prior to my postdoctoral position, I completed my Ph.D. at West Virginia University under the supervision of Prof. Fei Dai. My Ph.D. research focused on developing digital twin-based solutions that integrate AI/ML and computer vision to advance the intelligent digitalization of transportation infrastructure. Specifically, I worked on two major fronts: (1) automating quality control during the road construction phase through real-time monitoring and analysis, and (2) enabling intelligent digitalization of traffic data and road infrastructure for intelligent transportation system management during the operation phase. Some of the developed solutions (U.S. patented) have been successfully deployed for quality control during the construction of roads I-79S, I-68E, and US-50W in West Virginia, as well as for automatic vehicle-infrastructure collision warning on road I-68 in Pennsylvania. 
-
+Before my postdoctoral position, I completed my Ph.D. at West Virginia University under the supervision of Prof. Fei Dai. My Ph.D. research focused on developing DT-based solutions that integrate AI, computer vision, and smart sensors for intelligent, whole-life highway infrastructure management. Specifically, I worked on two major fronts: 1) advancing automated road construction quality control by leveraging intelligent mobile sensors (infrared thermograph and UAVs) in combination with computer vision and AI algorithms, and 2) enabling automated digitalization of road infrastructure and fine-grained traffic data using surveillance camera networks, UAVs, and AI-driven computer vision methods to support intelligent transportation infrastructure management. Some of the developed solutions (U.S. patented) have been successfully deployed for quality control during the construction of roads I-79S, I-68E, and US-50W in West Virginia, and for automated vehicle-infrastructure collision warning on road I-68 in Pennsylvania. 
 <br>
 
 Research Framework
@@ -25,7 +24,6 @@ Research Framework
 </video>
 
 <br>
-
 Research Interests
 ======
 <hr/>
