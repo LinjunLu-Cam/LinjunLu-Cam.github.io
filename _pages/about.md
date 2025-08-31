@@ -8,8 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="max-width: 1200px; margin: 0 auto;">
-
 <br>
 
 About Me
