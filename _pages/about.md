@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Linjun's Website"
+layout: single
 classes: wide
 author_profile: true
 redirect_from: 
