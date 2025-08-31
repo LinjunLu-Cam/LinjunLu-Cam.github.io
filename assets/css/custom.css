@@ -44,3 +44,11 @@
 .pub-links a:hover {
   text-decoration: underline;
 }
+.about-wide {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.about-wide video {
+  width: 100%;
+  height: auto;
+}
