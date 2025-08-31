@@ -8,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="about-wide">
 
 About Me
 ======
