@@ -21,6 +21,16 @@ Before my postdoctoral position, I completed my Ph.D. at West Virginia Universit
 </video>
 <br>
 
+## Current Research (Human-Machine Interaction)
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <iframe src="https://youtu.be/Zs9no7Ta4bU"
+          style="position:absolute; top:0; left:0; width:100%; height:100%;"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+  </iframe>
+</div>
+
 ## Research Interests
 1. Human-Machine Interaction for Built Infrastructure Management
 1. Generative AI-based Multi-Agent System for Digital Twin Application
