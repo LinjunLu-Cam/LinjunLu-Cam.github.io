@@ -22,7 +22,7 @@ Before my postdoctoral position, I completed my Ph.D. at West Virginia Universit
 <br>
 
 ## Current Research (Human-Machine Interaction)
-[![Watch the video](https://youtu.be/Zs9no7Ta4bU/0.jpg)](https://youtu.be/Zs9no7Ta4bU){:target="_blank"}
+[![Watch the video](https://img.youtube.com/vi/Zs9no7Ta4bU/0.jpg)](https://youtu.be/Zs9no7Ta4bU){:target="_blank"}
 <br>
 
 ## Research Interests
