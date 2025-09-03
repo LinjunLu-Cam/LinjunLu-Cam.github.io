@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linjun's Website"
+title: ""
 layout: single
 classes: wide
 author_profile: true
@@ -8,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About Me
 I am currently a Postdoctoral Fellow in the laboratory of Prof. Ioannis Brilakis at the University of Cambridge, where I am conducting research on Human-Machine Interaction (HMI) for built infrastructure management through generative AI-driven multi-agent DTs (digital twins) and human-centered reinforcement learning. This work focuses on developing solutions that foster both emotional and physical trust between humans and AI-driven DT systems, enabling more effective infrastructure operation and management. In parallel, my research also focuses on spatial-temporal modelling of GIS data and graph theory-based uncertainty quantification to ensure the trustworthy use of built infrastructure condition data in routine operations through DTs. These projects are carried out in collaboration with leading UK construction and technology companies, including Jacobs, Trimble, and TRL Software, as well as the UK Department for Transport, under the National Digital Twin Programme (NDTP). As the Principal Investigator, my current research is funded by the EU Marie Skłodowska-Curie Actions, with a total funding allocation of $229,067 (grant success rate: 14%).
 
