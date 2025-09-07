@@ -15,9 +15,15 @@ Before my postdoctoral position, I completed my Ph.D. at West Virginia Universit
 <br>
 
 ## Research Framework
-<video width="1000" height="500" autoplay loop muted playsinline controls>
-  <source src="{{ '/images/research_demo1.av1.mp4' | relative_url }}" type="video/mp4">
-</video>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; width:1000px; margin:0 auto;">
+  <iframe src="https://www.youtube.com/embed/yAbBjj05k-0"
+          title="Research Framework"
+          style="position:absolute; top:0; left:0; width:100%; height:100%;"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+  </iframe>
+</div>
 <br>
 
 ## Current Research (Human-Machine Interaction)
