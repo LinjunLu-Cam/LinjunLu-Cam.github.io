@@ -28,7 +28,7 @@ Before my postdoctoral position, I completed my Ph.D. at West Virginia Universit
 
 ## Current Research (Human-Machine Interaction)
 <div style="position:relative; padding-bottom:60%; height:0; overflow:hidden; width:1000px; margin:0 auto;">
-  <iframe src="https://www.youtube.com/embed/OyTBUhx_EZw?autoplay=1&mute=1"
+  <iframe src="https://www.youtube.com/embed/OyTBUhx_EZw?autoplay=1&mute=0"
           title="Human-Machine Interaction"
           style="position:absolute; top:0; left:0; width:100%; height:100%;"
           frameborder="0"
